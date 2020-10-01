@@ -17,10 +17,10 @@
 **Changes**
 
 - The bot has been rewritten
-- The dashboard is now fully functional on dashboard.luki.xyz
-- The server setting commands are no longer available on the bot
+- ~~The dashboard is now fully functional on dashboard.luki.xyz~~ No longer available
+- The server settings commands are no longer available on the bot
 - The autoroles module has been added to the bot
-- The Database has been changed to Sqlite3
-- The welcomer module has been improved
-- Customize prefix for servers is now avaliable
+- The Database has been changed to use Sqlite3
+- The Welcoming module has been improved
+- Customizable prefix for servers is now avaliable
 - The code of the bot is now open-source and avaliable to the public (Under "The GNU General Public License Version 3.0")
